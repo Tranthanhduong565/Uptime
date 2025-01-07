@@ -1,0 +1,15 @@
+{
+  "name": "uptime-server",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "scripts": {
+    "start": "node sever.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.5.0"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
