@@ -2,6 +2,7 @@
   "name": "uptime-server",
   "version": "1.0.0",
   "main": "sever.js",
+  "type": "module",
   "scripts": {
     "start": "node sever.js"
   },
